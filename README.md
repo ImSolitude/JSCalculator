@@ -1,2 +1,2 @@
 # JSCalculator
-JSCalculator : JavaScript Calculator
+JSCalculator : JavaScript Calculator : https://imsolitude.github.io/JSCalculator
