@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/JSCalculator/static/css/main.e0c3fe26.chunk.css",
-    "main.js": "/JSCalculator/static/js/main.90cf71a4.chunk.js",
-    "main.js.map": "/JSCalculator/static/js/main.90cf71a4.chunk.js.map",
-    "runtime~main.js": "/JSCalculator/static/js/runtime~main.18c636d1.js",
-    "runtime~main.js.map": "/JSCalculator/static/js/runtime~main.18c636d1.js.map",
-    "static/css/2.b43cd280.chunk.css": "/JSCalculator/static/css/2.b43cd280.chunk.css",
-    "static/js/2.38f6ba47.chunk.js": "/JSCalculator/static/js/2.38f6ba47.chunk.js",
-    "static/js/2.38f6ba47.chunk.js.map": "/JSCalculator/static/js/2.38f6ba47.chunk.js.map",
-    "index.html": "/JSCalculator/index.html",
-    "precache-manifest.2c8a47e7ed14c2e6878305ccbf901ae5.js": "/JSCalculator/precache-manifest.2c8a47e7ed14c2e6878305ccbf901ae5.js",
-    "service-worker.js": "/JSCalculator/service-worker.js",
-    "static/css/2.b43cd280.chunk.css.map": "/JSCalculator/static/css/2.b43cd280.chunk.css.map",
-    "static/css/main.e0c3fe26.chunk.css.map": "/JSCalculator/static/css/main.e0c3fe26.chunk.css.map"
+    "main.css": "/ReactCalculator/static/css/main.99e072c1.chunk.css",
+    "main.js": "/ReactCalculator/static/js/main.e25e8ea8.chunk.js",
+    "main.js.map": "/ReactCalculator/static/js/main.e25e8ea8.chunk.js.map",
+    "runtime~main.js": "/ReactCalculator/static/js/runtime~main.70542196.js",
+    "runtime~main.js.map": "/ReactCalculator/static/js/runtime~main.70542196.js.map",
+    "static/css/2.b43cd280.chunk.css": "/ReactCalculator/static/css/2.b43cd280.chunk.css",
+    "static/js/2.3276ccaa.chunk.js": "/ReactCalculator/static/js/2.3276ccaa.chunk.js",
+    "static/js/2.3276ccaa.chunk.js.map": "/ReactCalculator/static/js/2.3276ccaa.chunk.js.map",
+    "index.html": "/ReactCalculator/index.html",
+    "precache-manifest.adde63c422cd7f53a2e0f4d64b3951bd.js": "/ReactCalculator/precache-manifest.adde63c422cd7f53a2e0f4d64b3951bd.js",
+    "service-worker.js": "/ReactCalculator/service-worker.js",
+    "static/css/2.b43cd280.chunk.css.map": "/ReactCalculator/static/css/2.b43cd280.chunk.css.map",
+    "static/css/main.99e072c1.chunk.css.map": "/ReactCalculator/static/css/main.99e072c1.chunk.css.map"
   }
 }
